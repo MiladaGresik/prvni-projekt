@@ -1,6 +1,6 @@
 body {
   text-align: center;
-  background: grey
+  background: grey;
   color: white;
 }
 
@@ -9,4 +9,5 @@ h1 {
 }
 img {
   border: 2px solid white;
+  box-shadow: 5px 5px rgb(235, 235, 235);
 }
