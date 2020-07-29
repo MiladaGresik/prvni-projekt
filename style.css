@@ -6,8 +6,10 @@ body {
 
 h1 {
   font-size: xx-large;
+  padding: 10px;
+  text-decoration: underline;
 }
 img {
   border: 2px solid white;
-  box-shadow: 5px 5px rgb(235, 235, 235);
+  box-shadow: 5px 5px rgb(161, 156, 156);
 }
