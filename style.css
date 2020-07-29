@@ -1,7 +1,16 @@
 body {
   text-align: center;
-  background: grey;
+  background: lightgray;
   color: white;
+}
+
+.promo {
+  width: 800px;
+  height: 600px;
+  background: linear-gradient(blue,lightblue);
+  border: 5px solid white;
+  border-radius: 5px;
+  box-shadow: 10px 10px rgb(231, 222, 222);
 }
 
 h1 {
@@ -12,4 +21,5 @@ h1 {
 img {
   border: 2px solid white;
   box-shadow: 5px 5px rgb(161, 156, 156);
+  border-radius: 50%;
 }
